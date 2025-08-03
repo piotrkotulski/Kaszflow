@@ -536,7 +536,10 @@
             <!-- Logo i opis -->
             <div class="col-span-1 md:col-span-2">
                 <div class="flex items-center">
-                    <img class="h-8 w-auto" src="/assets/images/logo-white.svg" alt="Kaszflow">
+                    <svg class="h-8 w-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"></path>
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 7l10 10M17 7L7 17"></path>
+                    </svg>
                     <span class="ml-2 text-xl font-bold">Kaszflow</span>
                 </div>
                 <p class="mt-4 text-gray-300 max-w-md">

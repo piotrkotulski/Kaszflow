@@ -16,9 +16,17 @@ class Request
     public function __construct()
     {
         $this->get = $_GET;
-        $this->post = $_POST;
         $this->server = $_SERVER;
         $this->files = $_FILES;
+        
+        // Obsługa JSON POST
+        $contentType = $_SERVER['CONTENT_TYPE'] ?? '';
+        if (strpos($contentType, 'application/json') !== false) {
+            $jsonInput = file_get_contents('php://input');
+            $this->post = json_decode($jsonInput, true) ?? [];
+        } else {
+            $this->post = $_POST;
+        }
     }
     
     /**

@@ -1,0 +1,815 @@
+[
+    {
+        "product_id": 746,
+        "version_id": 2791,
+        "product_name": "Nest Lokata Witaj",
+        "bank_name": "Nest Bank",
+        "min_amount": "1000",
+        "max_amount": "25000",
+        "currency": "PLN",
+        "interest_rate": [
+            [
+                25000.01,
+                0
+            ],
+            [
+                1000,
+                5.25
+            ]
+        ],
+        "interest_rate_description": [
+            [
+                null,
+                "5,25"
+            ]
+        ],
+        "period": "3M",
+        "period_description": "3 miesi\u0105ce",
+        "capital_interest": false,
+        "capital_interest_description": "3 miesi\u0105ce",
+        "ecommerce": null,
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/0\/9\/4d975395597cc4.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/nestbank.gif",
+        "access": [
+            "bankowo\u015b\u0107 internetowa",
+            "system transakcyjny"
+        ],
+        "account": true,
+        "account_description": "",
+        "interest_type": "S",
+        "lead_url": "\/e\/lead\/1727?source=api-lokaty",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=746&version_id=2791",
+        "product_type": "lokata",
+        "interest": 107.18,
+        "final_amount": 10107.18
+    },
+    {
+        "product_id": 779,
+        "version_id": 2928,
+        "product_name": "Lokata standardowa",
+        "bank_name": "Inbank",
+        "min_amount": "5000",
+        "max_amount": "50000",
+        "currency": "PLN",
+        "interest_rate": [
+            [
+                50000.01,
+                0
+            ],
+            [
+                5000,
+                4.85
+            ]
+        ],
+        "interest_rate_description": [
+            [
+                null,
+                "4,85"
+            ]
+        ],
+        "period": "6M",
+        "period_description": "6 miesi\u0119cy",
+        "capital_interest": false,
+        "capital_interest_description": "6 miesi\u0119cy",
+        "ecommerce": 1411,
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/9\/6\/3fe0482ce3888b.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/inbank.gif",
+        "access": [
+            "bankowo\u015b\u0107 internetowa",
+            "system transakcyjny",
+            "wniosek on-line"
+        ],
+        "account": false,
+        "account_description": "",
+        "interest_type": "S",
+        "lead_url": "\/e\/lead\/1630?source=api-lokaty",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=779&version_id=2928",
+        "product_type": "lokata",
+        "interest": 198.03,
+        "final_amount": 10198.03
+    },
+    {
+        "product_id": 779,
+        "version_id": 2929,
+        "product_name": "Lokata standardowa",
+        "bank_name": "Inbank",
+        "min_amount": "5000",
+        "max_amount": "50000",
+        "currency": "PLN",
+        "interest_rate": [
+            [
+                50000.01,
+                0
+            ],
+            [
+                5000,
+                4.75
+            ]
+        ],
+        "interest_rate_description": [
+            [
+                null,
+                "4,75"
+            ]
+        ],
+        "period": "12M",
+        "period_description": "12 miesi\u0119cy",
+        "capital_interest": false,
+        "capital_interest_description": "12 miesi\u0119cy",
+        "ecommerce": 1411,
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/9\/6\/3fe0482ce3888b.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/inbank.gif",
+        "access": [
+            "bankowo\u015b\u0107 internetowa",
+            "system transakcyjny",
+            "wniosek on-line"
+        ],
+        "account": false,
+        "account_description": "",
+        "interest_type": "S",
+        "lead_url": "\/e\/lead\/1630?source=api-lokaty",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=779&version_id=2929",
+        "product_type": "lokata",
+        "interest": 384.75,
+        "final_amount": 10384.75
+    },
+    {
+        "product_id": 779,
+        "version_id": 2930,
+        "product_name": "Lokata standardowa",
+        "bank_name": "Inbank",
+        "min_amount": "5000",
+        "max_amount": "50000",
+        "currency": "PLN",
+        "interest_rate": [
+            [
+                50000.01,
+                0
+            ],
+            [
+                5000,
+                4.2
+            ]
+        ],
+        "interest_rate_description": [
+            [
+                null,
+                "4,20"
+            ]
+        ],
+        "period": "24M",
+        "period_description": "24 miesi\u0105ce",
+        "capital_interest": false,
+        "capital_interest_description": "24 miesi\u0105ce",
+        "ecommerce": 1411,
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/9\/6\/3fe0482ce3888b.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/inbank.gif",
+        "access": [
+            "bankowo\u015b\u0107 internetowa",
+            "system transakcyjny",
+            "wniosek on-line"
+        ],
+        "account": false,
+        "account_description": "",
+        "interest_type": "S",
+        "lead_url": "\/e\/lead\/1630?source=api-lokaty",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=779&version_id=2930",
+        "product_type": "lokata",
+        "interest": 680.4,
+        "final_amount": 10680.4
+    },
+    {
+        "product_id": 779,
+        "version_id": 2931,
+        "product_name": "Lokata standardowa",
+        "bank_name": "Inbank",
+        "min_amount": "5000",
+        "max_amount": "50000",
+        "currency": "PLN",
+        "interest_rate": [
+            [
+                50000.01,
+                0
+            ],
+            [
+                5000,
+                4
+            ]
+        ],
+        "interest_rate_description": [
+            [
+                null,
+                "4,00"
+            ]
+        ],
+        "period": "36M",
+        "period_description": "36 miesi\u0119cy",
+        "capital_interest": false,
+        "capital_interest_description": "36 miesi\u0119cy",
+        "ecommerce": 1411,
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/9\/6\/3fe0482ce3888b.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/inbank.gif",
+        "access": [
+            "bankowo\u015b\u0107 internetowa",
+            "system transakcyjny",
+            "wniosek on-line"
+        ],
+        "account": false,
+        "account_description": "",
+        "interest_type": "S",
+        "lead_url": "\/e\/lead\/1630?source=api-lokaty",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=779&version_id=2931",
+        "product_type": "lokata",
+        "interest": 972.37,
+        "final_amount": 10972.37
+    },
+    {
+        "product_id": 746,
+        "version_id": 2981,
+        "product_name": "Nest Lokata Witaj",
+        "bank_name": "Nest Bank",
+        "min_amount": "1000",
+        "max_amount": "25000",
+        "currency": "PLN",
+        "interest_rate": [
+            [
+                25000.01,
+                0
+            ],
+            [
+                1000,
+                7.3
+            ]
+        ],
+        "interest_rate_description": [
+            [
+                null,
+                "7,30"
+            ]
+        ],
+        "period": "6M",
+        "period_description": "6 miesi\u0119cy",
+        "capital_interest": false,
+        "capital_interest_description": "6 miesi\u0119cy",
+        "ecommerce": null,
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/0\/9\/4d975395597cc4.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/nestbank.gif",
+        "access": [
+            "bankowo\u015b\u0107 internetowa",
+            "system transakcyjny"
+        ],
+        "account": true,
+        "account_description": "",
+        "interest_type": "S",
+        "lead_url": "\/e\/lead\/1727?source=api-lokaty",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=746&version_id=2981",
+        "product_type": "lokata",
+        "interest": 298.08,
+        "final_amount": 10298.08
+    },
+    {
+        "product_id": 779,
+        "version_id": 3329,
+        "product_name": "Lokata standardowa",
+        "bank_name": "Inbank",
+        "min_amount": "5000",
+        "max_amount": "50000",
+        "currency": "PLN",
+        "interest_rate": [
+            [
+                50000.01,
+                0
+            ],
+            [
+                5000,
+                3.5
+            ]
+        ],
+        "interest_rate_description": [
+            [
+                null,
+                "3,50"
+            ]
+        ],
+        "period": "48M",
+        "period_description": "48 miesi\u0119cy",
+        "capital_interest": false,
+        "capital_interest_description": "48 miesi\u0119cy",
+        "ecommerce": 1411,
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/9\/6\/3fe0482ce3888b.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/inbank.gif",
+        "access": [
+            "bankowo\u015b\u0107 internetowa",
+            "system transakcyjny",
+            "wniosek on-line"
+        ],
+        "account": false,
+        "account_description": "",
+        "interest_type": "S",
+        "lead_url": "\/e\/lead\/1630?source=api-lokaty",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=779&version_id=3329",
+        "product_type": "lokata",
+        "interest": 1134,
+        "final_amount": 11134
+    },
+    {
+        "product_id": 779,
+        "version_id": 3330,
+        "product_name": "Lokata standardowa",
+        "bank_name": "Inbank",
+        "min_amount": "5000",
+        "max_amount": "50000",
+        "currency": "PLN",
+        "interest_rate": [
+            [
+                50000.01,
+                0
+            ],
+            [
+                5000,
+                3.5
+            ]
+        ],
+        "interest_rate_description": [
+            [
+                null,
+                "3,50"
+            ]
+        ],
+        "period": "60M",
+        "period_description": "60 miesi\u0119cy",
+        "capital_interest": false,
+        "capital_interest_description": "60 miesi\u0119cy",
+        "ecommerce": 1411,
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/9\/6\/3fe0482ce3888b.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/inbank.gif",
+        "access": [
+            "bankowo\u015b\u0107 internetowa",
+            "system transakcyjny",
+            "wniosek on-line"
+        ],
+        "account": false,
+        "account_description": "",
+        "interest_type": "S",
+        "lead_url": "\/e\/lead\/1630?source=api-lokaty",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=779&version_id=3330",
+        "product_type": "lokata",
+        "interest": 1417.5,
+        "final_amount": 11417.5
+    },
+    {
+        "product_id": 779,
+        "version_id": 3334,
+        "product_name": "Lokata standardowa",
+        "bank_name": "Inbank",
+        "min_amount": "5000",
+        "max_amount": "50000",
+        "currency": "PLN",
+        "interest_rate": [
+            [
+                50000.01,
+                0
+            ],
+            [
+                5000,
+                4.45
+            ]
+        ],
+        "interest_rate_description": [
+            [
+                null,
+                "4,45"
+            ]
+        ],
+        "period": "3M",
+        "period_description": "3 miesi\u0105ce",
+        "capital_interest": false,
+        "capital_interest_description": "3 miesi\u0105ce",
+        "ecommerce": 1411,
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/9\/6\/3fe0482ce3888b.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/inbank.gif",
+        "access": [
+            "bankowo\u015b\u0107 internetowa",
+            "system transakcyjny",
+            "wniosek on-line"
+        ],
+        "account": false,
+        "account_description": "",
+        "interest_type": "S",
+        "lead_url": "\/e\/lead\/1630?source=api-lokaty",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=779&version_id=3334",
+        "product_type": "lokata",
+        "interest": 90.84,
+        "final_amount": 10090.84
+    },
+    {
+        "product_id": 726,
+        "version_id": 3349,
+        "product_name": "Lokata na Nowe \u015arodki",
+        "bank_name": "VeloBank",
+        "min_amount": "1000",
+        "max_amount": "190000",
+        "currency": "PLN",
+        "interest_rate": [
+            [
+                190000.01,
+                0
+            ],
+            [
+                1000,
+                4
+            ]
+        ],
+        "interest_rate_description": [
+            [
+                null,
+                "4,00"
+            ]
+        ],
+        "period": "3M",
+        "period_description": "3 miesi\u0105ce",
+        "capital_interest": false,
+        "capital_interest_description": "3 miesi\u0105ce",
+        "ecommerce": 539,
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/b\/4\/5069de044aa202.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/velobank.gif",
+        "access": [
+            "aplikacja mobilna",
+            "bankowo\u015b\u0107 internetowa",
+            "infolinia",
+            "oddzia\u0142",
+            "system transakcyjny",
+            "wniosek on-line"
+        ],
+        "account": false,
+        "account_description": "",
+        "interest_type": "S",
+        "lead_url": "\/e\/lead\/459?source=api-lokaty",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=726&version_id=3349",
+        "product_type": "lokata",
+        "interest": 81.66,
+        "final_amount": 10081.66
+    },
+    {
+        "product_id": 726,
+        "version_id": 3362,
+        "product_name": "Lokata na Nowe \u015arodki",
+        "bank_name": "VeloBank",
+        "min_amount": "1000",
+        "max_amount": "190000",
+        "currency": "PLN",
+        "interest_rate": [
+            [
+                190000.01,
+                0
+            ],
+            [
+                1000,
+                3.8
+            ]
+        ],
+        "interest_rate_description": [
+            [
+                null,
+                "3,80"
+            ]
+        ],
+        "period": "6M",
+        "period_description": "6 miesi\u0119cy",
+        "capital_interest": false,
+        "capital_interest_description": "6 miesi\u0119cy",
+        "ecommerce": 539,
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/b\/4\/5069de044aa202.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/velobank.gif",
+        "access": [
+            "aplikacja mobilna",
+            "bankowo\u015b\u0107 internetowa",
+            "infolinia",
+            "oddzia\u0142",
+            "system transakcyjny",
+            "wniosek on-line"
+        ],
+        "account": false,
+        "account_description": "",
+        "interest_type": "S",
+        "lead_url": "\/e\/lead\/459?source=api-lokaty",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=726&version_id=3362",
+        "product_type": "lokata",
+        "interest": 155.16,
+        "final_amount": 10155.16
+    },
+    {
+        "product_id": 726,
+        "version_id": 3411,
+        "product_name": "Lokata na Nowe \u015arodki",
+        "bank_name": "VeloBank",
+        "min_amount": "1000",
+        "max_amount": "190000",
+        "currency": "PLN",
+        "interest_rate": [
+            [
+                190000.01,
+                0
+            ],
+            [
+                1000,
+                4.3
+            ]
+        ],
+        "interest_rate_description": [
+            [
+                null,
+                "4,30"
+            ]
+        ],
+        "period": "2M",
+        "period_description": "2 miesi\u0105ce",
+        "capital_interest": false,
+        "capital_interest_description": "2 miesi\u0105ce",
+        "ecommerce": 539,
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/b\/4\/5069de044aa202.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/velobank.gif",
+        "access": [
+            "aplikacja mobilna",
+            "bankowo\u015b\u0107 internetowa",
+            "infolinia",
+            "oddzia\u0142",
+            "system transakcyjny",
+            "wniosek on-line"
+        ],
+        "account": false,
+        "account_description": "",
+        "interest_type": "S",
+        "lead_url": "\/e\/lead\/459?source=api-lokaty",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=726&version_id=3411",
+        "product_type": "lokata",
+        "interest": 58.2,
+        "final_amount": 10058.2
+    },
+    {
+        "product_id": 779,
+        "version_id": 3449,
+        "product_name": "Lokata standardowa",
+        "bank_name": "Inbank",
+        "min_amount": "5000",
+        "max_amount": "50000",
+        "currency": "PLN",
+        "interest_rate": [
+            [
+                50000.01,
+                0
+            ],
+            [
+                5000,
+                3
+            ]
+        ],
+        "interest_rate_description": [
+            [
+                null,
+                "3,00"
+            ]
+        ],
+        "period": "1M",
+        "period_description": "1 miesi\u0105c",
+        "capital_interest": false,
+        "capital_interest_description": "1 miesi\u0105c",
+        "ecommerce": 1411,
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/9\/6\/3fe0482ce3888b.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/inbank.gif",
+        "access": [
+            "bankowo\u015b\u0107 internetowa",
+            "system transakcyjny",
+            "wniosek on-line"
+        ],
+        "account": false,
+        "account_description": "",
+        "interest_type": "S",
+        "lead_url": "\/e\/lead\/1630?source=api-lokaty",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=779&version_id=3449",
+        "product_type": "lokata",
+        "interest": 20.63,
+        "final_amount": 10020.63
+    },
+    {
+        "product_id": 917,
+        "version_id": 3600,
+        "product_name": "Lokata na Start",
+        "bank_name": "Inbank",
+        "min_amount": "1000",
+        "max_amount": "50000",
+        "currency": "PLN",
+        "interest_rate": [
+            [
+                50000.01,
+                0
+            ],
+            [
+                1000,
+                4.85
+            ]
+        ],
+        "interest_rate_description": [
+            [
+                null,
+                "4,85"
+            ]
+        ],
+        "period": "3M",
+        "period_description": "3 miesi\u0105ce",
+        "capital_interest": false,
+        "capital_interest_description": "3 miesi\u0105ce",
+        "ecommerce": 1475,
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/9\/6\/3fe0482ce3888b.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/inbank.gif",
+        "access": [
+            "bankowo\u015b\u0107 internetowa",
+            "system transakcyjny"
+        ],
+        "account": false,
+        "account_description": "",
+        "interest_type": "S",
+        "lead_url": "\/e\/lead\/1692?source=api-lokaty",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=917&version_id=3600",
+        "product_type": "lokata",
+        "interest": 99.02,
+        "final_amount": 10099.02
+    },
+    {
+        "product_id": 938,
+        "version_id": 3682,
+        "product_name": "Lokata dla Ciebie",
+        "bank_name": "Raiffeisen Digital Bank",
+        "min_amount": "100",
+        "max_amount": "1000000",
+        "currency": "PLN",
+        "interest_rate": [
+            [
+                1000000.01,
+                0
+            ],
+            [
+                100,
+                5.1
+            ]
+        ],
+        "interest_rate_description": [
+            [
+                null,
+                "5,10"
+            ]
+        ],
+        "period": "12M",
+        "period_description": "12 miesi\u0119cy",
+        "capital_interest": false,
+        "capital_interest_description": "12 miesi\u0119cy",
+        "ecommerce": 2725,
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/a\/d\/d5b77a42400a83.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/raiffeisen.gif",
+        "access": [
+            "aplikacja mobilna",
+            "system transakcyjny"
+        ],
+        "account": true,
+        "account_description": "",
+        "interest_type": "S",
+        "lead_url": "\/e\/lead\/3094?source=api-lokaty",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=938&version_id=3682",
+        "product_type": "lokata",
+        "interest": 413.1,
+        "final_amount": 10413.1
+    },
+    {
+        "product_id": 938,
+        "version_id": 3683,
+        "product_name": "Lokata dla Ciebie",
+        "bank_name": "Raiffeisen Digital Bank",
+        "min_amount": "100",
+        "max_amount": "1000000",
+        "currency": "PLN",
+        "interest_rate": [
+            [
+                1000000.01,
+                0
+            ],
+            [
+                100,
+                5.1
+            ]
+        ],
+        "interest_rate_description": [
+            [
+                null,
+                "5,10"
+            ]
+        ],
+        "period": "6M",
+        "period_description": "6 miesi\u0119cy",
+        "capital_interest": false,
+        "capital_interest_description": "6 miesi\u0119cy",
+        "ecommerce": 2725,
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/a\/d\/d5b77a42400a83.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/raiffeisen.gif",
+        "access": [
+            "aplikacja mobilna",
+            "system transakcyjny"
+        ],
+        "account": true,
+        "account_description": "",
+        "interest_type": "S",
+        "lead_url": "\/e\/lead\/3094?source=api-lokaty",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=938&version_id=3683",
+        "product_type": "lokata",
+        "interest": 208.25,
+        "final_amount": 10208.25
+    },
+    {
+        "product_id": 938,
+        "version_id": 3684,
+        "product_name": "Lokata dla Ciebie",
+        "bank_name": "Raiffeisen Digital Bank",
+        "min_amount": "100",
+        "max_amount": "1000000",
+        "currency": "PLN",
+        "interest_rate": [
+            [
+                1000000.01,
+                0
+            ],
+            [
+                100,
+                5.2
+            ]
+        ],
+        "interest_rate_description": [
+            [
+                null,
+                "5,20"
+            ]
+        ],
+        "period": "3M",
+        "period_description": "3 miesi\u0105ce",
+        "capital_interest": false,
+        "capital_interest_description": "3 miesi\u0105ce",
+        "ecommerce": 2725,
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/a\/d\/d5b77a42400a83.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/raiffeisen.gif",
+        "access": [
+            "aplikacja mobilna",
+            "system transakcyjny"
+        ],
+        "account": true,
+        "account_description": "",
+        "interest_type": "S",
+        "lead_url": "\/e\/lead\/3094?source=api-lokaty",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=938&version_id=3684",
+        "product_type": "lokata",
+        "interest": 106.16,
+        "final_amount": 10106.16
+    },
+    {
+        "product_id": 959,
+        "version_id": 3809,
+        "product_name": "VeloLokata dla Aktywnych",
+        "bank_name": "VeloBank",
+        "min_amount": "1000",
+        "max_amount": "50000",
+        "currency": "PLN",
+        "interest_rate": [
+            [
+                50000.01,
+                0
+            ],
+            [
+                1000,
+                7
+            ]
+        ],
+        "interest_rate_description": [
+            [
+                null,
+                "7,00"
+            ]
+        ],
+        "period": "6M",
+        "period_description": "6 miesi\u0119cy",
+        "capital_interest": false,
+        "capital_interest_description": "6 miesi\u0119cy",
+        "ecommerce": 1278,
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/b\/4\/5069de044aa202.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/velobank.gif",
+        "access": [
+            "aplikacja mobilna",
+            "bankowo\u015b\u0107 internetowa",
+            "system transakcyjny"
+        ],
+        "account": true,
+        "account_description": "",
+        "interest_type": "S",
+        "lead_url": "\/e\/lead\/1487?source=api-lokaty",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=959&version_id=3809",
+        "product_type": "lokata",
+        "interest": 285.83,
+        "final_amount": 10285.83
+    }
+]

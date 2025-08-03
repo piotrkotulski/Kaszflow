@@ -71,4 +71,8 @@ phpunit.xml
 
 # Application specific
 uploads/
-temp/ 
+temp/
+
+# Configuration files with sensitive data
+data/blog_automation_settings.json
+data/*.json 

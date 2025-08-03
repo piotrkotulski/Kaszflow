@@ -16,10 +16,7 @@ class Database
     public function __construct()
     {
         $this->config = [
-            'host' => $_ENV['DB_HOST'] ?? 'localhost',
-            'dbname' => $_ENV['DB_NAME'] ?? 'kaszflow',
-            'username' => $_ENV['DB_USER'] ?? 'root',
-            'password' => $_ENV['DB_PASS'] ?? '',
+            'path' => __DIR__ . '/../../database/kaszflow.db',
             'charset' => 'utf8mb4'
         ];
         
@@ -27,20 +24,23 @@ class Database
     }
     
     /**
-     * Połączenie z bazą danych
+     * Połączenie z bazą danych SQLite
      */
     private function connect(): void
     {
         try {
-            $dsn = "mysql:host={$this->config['host']};dbname={$this->config['dbname']};charset={$this->config['charset']}";
+            $dsn = "sqlite:{$this->config['path']}";
             
-            $this->connection = new PDO($dsn, $this->config['username'], $this->config['password'], [
+            $this->connection = new PDO($dsn, null, null, [
                 PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
                 PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
                 PDO::ATTR_EMULATE_PREPARES => false
             ]);
+            
+            // Włącz foreign keys
+            $this->connection->exec('PRAGMA foreign_keys = ON');
+            
         } catch (PDOException $e) {
-            // Tymczasowo wyłączamy błąd bazy danych dla development
             error_log('Błąd połączenia z bazą danych: ' . $e->getMessage());
             $this->connection = null;
         }
@@ -137,9 +137,21 @@ class Database
         if (!$this->connection) {
             return false;
         }
-        $query = "SHOW TABLES LIKE :table";
+        $query = "SELECT name FROM sqlite_master WHERE type='table' AND name=:table";
         $result = $this->select($query, ['table' => $table]);
         return !empty($result);
+    }
+    
+    /**
+     * Wykonanie zapytania SQL
+     */
+    public function execute(string $query, array $params = []): bool
+    {
+        if (!$this->connection) {
+            return false;
+        }
+        $stmt = $this->connection->prepare($query);
+        return $stmt->execute($params);
     }
     
     /**

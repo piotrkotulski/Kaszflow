@@ -1,0 +1,1258 @@
+[
+    {
+        "product_name": "Konto Santander",
+        "bank_name": "Santander Bank Polska",
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/9\/1\/0e5115eda561a9.png?16",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/santanderbankpolska.gif",
+        "ecommerce": 2324,
+        "product_id": 104,
+        "management_fee_min": 0,
+        "management_fee_max": 6,
+        "management_fee_exempting_conditions": "* 0 z\u0142, je\u015bli dokonano p\u0142atno\u015bci kart\u0105 lub Blikiem na min. 300 z\u0142",
+        "external_outgoing_transfer_fee_min": 0,
+        "external_outgoing_transfer_fee_max": 0,
+        "bonus": "1260 z\u0142",
+        "bonus_opis": "- do 500 z\u0142 za otwarcie konta z kart\u0105 debetow\u0105 oraz us\u0142ugami Santander online i spe\u0142nienie warunk\u00f3w promocji<br\/>\r\n- do 160 z\u0142 za otwarcie konta z kart\u0105 Dopasowan\u0105 Mastercard i Santander online \u2013 wystarczy zap\u0142aci\u0107 t\u0105 kart\u0105 za subskrypcj\u0119 w jednym z serwis\u00f3w<\/br>\r\n- do 100 z\u0142 za polecenie konta \u2013 dla Ciebie i osoby, kt\u00f3rej je polecisz, po spe\u0142nieniu warunk\u00f3w<\/br>\r\n- do 200 z\u0142 za otwarcie konta z kart\u0105 Dopasowan\u0105 Mastercard i Santander dla dziecka + PRO Koszulka<\/br>\r\n- do 300 z\u0142 rocznie zwrotu za op\u0142acanie rachunk\u00f3w",
+        "debit_cards": [
+            {
+                "name": "Karta Dopasowana Mastercard\/Visa",
+                "domestic_atm_fee": 3,
+                "domestic_atm_fee_min": 0,
+                "domestic_atm_fee_max": 3,
+                "domestic_atm_fee_exempting_conditions": "0 z\u0142, je\u015bli klient wykupi\u0142 pakiet darmowych wyp\u0142at z bankomat\u00f3w za 5 z\u0142\/m-c",
+                "free_withdrawal_domestic_atm": false,
+                "atm_free_network": [
+                    {
+                        "id": 15,
+                        "name": "Santander Bank Polska"
+                    }
+                ],
+                "debit_card_fixed_fee_min": 0,
+                "debit_card_fixed_fee_max": 9,
+                "debit_card_fixed_fee_exempting_conditions": "* 0 z\u0142, je\u015bli dokonano p\u0142atno\u015bci kart\u0105 lub Blikiem na min. 300 z\u0142",
+                "free_withdrawal_foreign_atm": false,
+                "foreign_atm_fee": 10,
+                "foreign_atm_fee_min": 0,
+                "foreign_atm_fee_max": 10,
+                "foreign_atm_fee_exempting_conditions": "0 z\u0142, jesli klient wykupi\u0142 pakiet darmowych wyp\u0142at z bankomat\u00f3w za 5 z\u0142\/m-c",
+                "features": [
+                    [
+                        1,
+                        "P\u0142atno\u015bci internetowe"
+                    ],
+                    [
+                        3,
+                        "P\u0142atno\u015bci zbli\u017ceniowe"
+                    ],
+                    [
+                        4,
+                        "Cash back"
+                    ]
+                ]
+            }
+        ],
+        "features": [
+            [
+                8,
+                "Google Pay"
+            ],
+            [
+                1,
+                "Aplikacja mobilna"
+            ],
+            [
+                7,
+                "NFC"
+            ],
+            [
+                6,
+                "Blik"
+            ],
+            [
+                9,
+                "Apple Pay"
+            ]
+        ],
+        "lead_url": "\/e\/lead\/392?source=api-konta-osobiste",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=104",
+        "product_type": "konto_osobiste"
+    },
+    {
+        "product_name": "Konto Jak\u017ce Osobiste",
+        "bank_name": "Alior Bank",
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/9\/1\/e9ea4c8e63eb84-thumb-200.jpg?79",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/aliorbank.gif",
+        "ecommerce": 1505,
+        "product_id": 105,
+        "management_fee_min": 0,
+        "management_fee_max": 10,
+        "management_fee_exempting_conditions": "0 z\u0142, je\u015bli wp\u0142ywy na konto wynosz\u0105 min. 1500 z\u0142\/m-c lub klient nie uko\u0144czy\u0142 26 r. \u017c.",
+        "external_outgoing_transfer_fee_min": 0,
+        "external_outgoing_transfer_fee_max": 0,
+        "bonus": "1249 z\u0142",
+        "bonus_opis": "- 100 z\u0142 za otwarcie konta z kart\u0105<\/br>\r\n- 500 z\u0142 za spe\u0142nianie warunk\u00f3w aktywno\u015bci (po 100 z\u0142 przez 5 m-cy)<\/br>\r\n- 100 z\u0142 za dodanie karty do portfela cyfrowego i wykonanie min jednej transakcji<\/br>\r\n- 100 z\u0142 za rocznic\u0119 bankowanie (o ile spe\u0142nione zostan\u0105 pozosta\u0142e warunki aktywno\u015bci)<\/br>\r\n- obr\u0105czka p\u0142atnicza TAPSTER o warto\u015bci 449 z\u0142 w promocji \"Otw\u00f3rz konto i odbierz obr\u0105czk\u0119 p\u0142atnicz\u0105\"",
+        "debit_cards": [
+            {
+                "name": "Karta p\u0142atnicza",
+                "domestic_atm_fee": 2.5,
+                "domestic_atm_fee_min": 0,
+                "domestic_atm_fee_max": 2.5,
+                "domestic_atm_fee_exempting_conditions": "0 z\u0142, je\u015bli klient zdecydowa\u0142 si\u0119 na us\u0142ug\u0119 bezp\u0142atnych wyp\u0142at z bankomat\u00f3w krajowych (dwie us\u0142ugi s\u0105 darmowe, za ka\u017cd\u0105 kolejn\u0105 trzeba dop\u0142aci\u0107 3,5 z\u0142\/m-c)",
+                "free_withdrawal_domestic_atm": true,
+                "atm_free_network": [],
+                "debit_card_fixed_fee_min": 0,
+                "debit_card_fixed_fee_max": 5,
+                "debit_card_fixed_fee_exempting_conditions": "0 z\u0142, je\u015bli dokonano transakcji bezgot\u00f3wkowych na kwot\u0119 min. 300 z\u0142\/m-c",
+                "free_withdrawal_foreign_atm": true,
+                "foreign_atm_fee": 5,
+                "foreign_atm_fee_min": 0,
+                "foreign_atm_fee_max": 5,
+                "foreign_atm_fee_exempting_conditions": "0 z\u0142, je\u015bli klient zdecydowa\u0142 si\u0119 na us\u0142ug\u0119 bezp\u0142atnych wyp\u0142at z bankomat\u00f3w za granic\u0105 (dwie us\u0142ugi s\u0105 darmowe, za ka\u017cd\u0105 kolejn\u0105 trzeba dop\u0142aci\u0107 3,5 z\u0142\/m-c)\r\n2,50 z\u0142, je\u015bli wyp\u0142ata jest realizowana w euro, \r\n5 z\u0142 w pozosta\u0142ych przypadkach ",
+                "features": [
+                    [
+                        1,
+                        "P\u0142atno\u015bci internetowe"
+                    ],
+                    [
+                        3,
+                        "P\u0142atno\u015bci zbli\u017ceniowe"
+                    ],
+                    [
+                        4,
+                        "Cash back"
+                    ]
+                ]
+            }
+        ],
+        "features": [
+            [
+                8,
+                "Google Pay"
+            ],
+            [
+                1,
+                "Aplikacja mobilna"
+            ],
+            [
+                7,
+                "NFC"
+            ],
+            [
+                6,
+                "Blik"
+            ],
+            [
+                9,
+                "Apple Pay"
+            ]
+        ],
+        "lead_url": "\/e\/lead\/1720?source=api-konta-osobiste",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=105",
+        "product_type": "konto_osobiste"
+    },
+    {
+        "product_name": "Konto Przekorzystne",
+        "bank_name": "Bank Pekao",
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/3\/2\/bb272715629068.jpg",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/bankpekao.gif",
+        "ecommerce": 2394,
+        "product_id": 109,
+        "management_fee_min": 0,
+        "management_fee_max": 0,
+        "management_fee_exempting_conditions": "",
+        "external_outgoing_transfer_fee_min": 0,
+        "external_outgoing_transfer_fee_max": 0,
+        "bonus": "1000 z\u0142",
+        "bonus_opis": "- 600 z\u0142 zwrotu na konto\r\n(maks. 100 z\u0142 miesi\u0119cznie, przez 6 kolejnych miesi\u0119cy) za spe\u0142nienie warunk\u00f3w promocji.<br>\r\n- Obr\u0105czka p\u0142atnicza o warto\u015bci\r\n400 z\u0142 za 0 z\u0142<br>\r\nSzczeg\u00f3\u0142y w regulaminie promocji: \"Supermocna oferta dla podr\u00f3\u017cuj\u0105cych\" .",
+        "debit_cards": [
+            {
+                "name": "Mastercard Debit FX",
+                "domestic_atm_fee": 5,
+                "domestic_atm_fee_min": 0,
+                "domestic_atm_fee_max": 5,
+                "domestic_atm_fee_exempting_conditions": "0 z\u0142 za dwie pierwsze wyp\u0142aty, je\u015bli wp\u0142ywy na konto wynosz\u0105 min. 500 z\u0142\/m-c i dokonano min. 1 transakcji bezgot\u00f3wkowej kart\u0105 p\u0142atnicz\u0105\r\ninaczej 2,30%, min. 5,00 z\u0142 w bankomatach obcych",
+                "free_withdrawal_domestic_atm": false,
+                "atm_free_network": [
+                    {
+                        "id": 12,
+                        "name": "Bank Pekao"
+                    }
+                ],
+                "debit_card_fixed_fee_min": 0,
+                "debit_card_fixed_fee_max": 4,
+                "debit_card_fixed_fee_exempting_conditions": "0 z\u0142, je\u015bli wp\u0142ywy na konto wynosz\u0105 min. 500 z\u0142\/m-c i dokonano min. 1 transakcji bezgot\u00f3wkowej",
+                "free_withdrawal_foreign_atm": false,
+                "foreign_atm_fee": 5,
+                "foreign_atm_fee_min": 0,
+                "foreign_atm_fee_max": 5,
+                "foreign_atm_fee_exempting_conditions": "0 z\u0142 za wszystkie wyp\u0142aty, je\u015bli wp\u0142ywy na konto wynosz\u0105 min. 500 z\u0142\/m-c i dokonano min. 1 transakcji bezgot\u00f3wkowej kart\u0105 p\u0142atnicz\u0105\r\ninaczej 2,30%, min. 5,00 z\u0142 w bankomatach obcych",
+                "features": [
+                    [
+                        1,
+                        "P\u0142atno\u015bci internetowe"
+                    ],
+                    [
+                        3,
+                        "P\u0142atno\u015bci zbli\u017ceniowe"
+                    ],
+                    [
+                        4,
+                        "Cash back"
+                    ]
+                ]
+            }
+        ],
+        "features": [
+            [
+                8,
+                "Google Pay"
+            ],
+            [
+                1,
+                "Aplikacja mobilna"
+            ],
+            [
+                7,
+                "NFC"
+            ],
+            [
+                6,
+                "Blik"
+            ],
+            [
+                9,
+                "Apple Pay"
+            ]
+        ],
+        "lead_url": "\/e\/lead\/2848?source=api-konta-osobiste",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=109",
+        "product_type": "konto_osobiste"
+    },
+    {
+        "product_name": "Konto Przekorzystne (do 26 lat)",
+        "bank_name": "Bank Pekao",
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/3\/2\/bb272715629068.jpg",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/bankpekao.gif",
+        "ecommerce": 2355,
+        "product_id": 110,
+        "management_fee_min": 0,
+        "management_fee_max": 0,
+        "management_fee_exempting_conditions": "",
+        "external_outgoing_transfer_fee_min": 0,
+        "external_outgoing_transfer_fee_max": 0,
+        "bonus": "400 z\u0142",
+        "bonus_opis": "- 100z\u0142 - Za\u0142\u00f3\u017c Konto Przekorzystne z kart\u0105 do konta, bankowo\u015bci\u0105 internetow\u0105 Pekao24 i aplikacj\u0105 PeoPay w terminie do 30.09.2025 r. oraz wyra\u017a zgody marketingowe. Dokonaj wp\u0142yw\u00f3w na konto na min. 500 z\u0142 oraz zr\u00f3b min. 5 transakcji bezgot\u00f3wkowych kart\u0105 do konta w miesi\u0105cu otwarcia konta lub nast\u0119puj\u0105cym. Zaloguj si\u0119 do aplikacji PeoPay od razu w dniu otwarcia konta. W promocji bior\u0105 udzia\u0142 konta za\u0142o\u017cone online metod\u0105 na selfie lub logowaniem w innym banku.<br>\r\n- 200 z\u0142 - dokonaj wp\u0142yw\u00f3w na konto na min. 500 z\u0142 oraz zr\u00f3b min. 5 transakcji bezgot\u00f3wkowych kart\u0105 do konta w drugim i trzecim miesi\u0105cu od otwarcia konta<br>\r\n- Skorzystaj z programu Mastercard\u00ae Bezcenne\u00ae Chwile i zyskaj 8000 Punkt\u00f3w wymienne na e-vouchery o warto\u015bci 100 z\u0142.\r\n",
+        "debit_cards": [
+            {
+                "name": "Mastercard Debit FX",
+                "domestic_atm_fee": 0,
+                "domestic_atm_fee_min": 0,
+                "domestic_atm_fee_max": 0,
+                "domestic_atm_fee_exempting_conditions": "",
+                "free_withdrawal_domestic_atm": true,
+                "atm_free_network": [],
+                "debit_card_fixed_fee_min": 0,
+                "debit_card_fixed_fee_max": 0,
+                "debit_card_fixed_fee_exempting_conditions": "",
+                "free_withdrawal_foreign_atm": true,
+                "foreign_atm_fee": 0,
+                "foreign_atm_fee_min": 0,
+                "foreign_atm_fee_max": 0,
+                "foreign_atm_fee_exempting_conditions": "",
+                "features": [
+                    [
+                        1,
+                        "P\u0142atno\u015bci internetowe"
+                    ],
+                    [
+                        3,
+                        "P\u0142atno\u015bci zbli\u017ceniowe"
+                    ],
+                    [
+                        4,
+                        "Cash back"
+                    ]
+                ]
+            }
+        ],
+        "features": [
+            [
+                8,
+                "Google Pay"
+            ],
+            [
+                1,
+                "Aplikacja mobilna"
+            ],
+            [
+                7,
+                "NFC"
+            ],
+            [
+                6,
+                "Blik"
+            ],
+            [
+                9,
+                "Apple Pay"
+            ]
+        ],
+        "lead_url": "\/e\/lead\/1857?source=api-konta-osobiste",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=110",
+        "product_type": "konto_osobiste"
+    },
+    {
+        "product_name": "mKonto Intensive",
+        "bank_name": "mBank",
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/c\/a\/3cdcb999fcce74.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/mbank.gif",
+        "ecommerce": 888,
+        "product_id": 140,
+        "management_fee_min": 0,
+        "management_fee_max": 49,
+        "management_fee_exempting_conditions": "* 0 z\u0142, je\u015bli w poprzednim miesi\u0105cu wp\u0142ywy na rachunek wynios\u0142y min. 7000 z\u0142 lub \u015brednia suma aktyw\u00f3w klienta w banku wynosi\u0142a min. 100 000 z\u0142 lub suma obrot\u00f3w na eMakler wynosi\u0142a 100 000 z\u0142\r\n",
+        "external_outgoing_transfer_fee_min": 0,
+        "external_outgoing_transfer_fee_max": 0,
+        "bonus": "870 z\u0142",
+        "bonus_opis": "Maksymalnie do 870 z\u0142 premii:\r\n<ul>\r\n<li>320 z\u0142 \u0142\u0105cznej premii za otwarcie konta z kart\u0105 i aktywno\u015b\u0107<\/li>\r\n<li>100 z\u0142 \u0142\u0105cznie premii za spe\u0142nienie warunk\u00f3w aktywno\u015bci<\/li>\r\n<li>100z\u0142 za kart\u0119 Visa \u015awiat Intensive i jej aktywne u\u017cytkowanie<\/li>\r\n<li>100 z\u0142 za za\u0142o\u017cenie konta dla dziecka<\/li>\r\n<li>do 250 z\u0142 za skuteczne polecanie konta<\/li>\r\n<\/ul>",
+        "debit_cards": [
+            {
+                "name": "Visa Intensive\/MasterCard Intensive",
+                "domestic_atm_fee": 0,
+                "domestic_atm_fee_min": 0,
+                "domestic_atm_fee_max": 0,
+                "domestic_atm_fee_exempting_conditions": "",
+                "free_withdrawal_domestic_atm": true,
+                "atm_free_network": [],
+                "debit_card_fixed_fee_min": 0,
+                "debit_card_fixed_fee_max": 0,
+                "debit_card_fixed_fee_exempting_conditions": "",
+                "free_withdrawal_foreign_atm": true,
+                "foreign_atm_fee": 0,
+                "foreign_atm_fee_min": 0,
+                "foreign_atm_fee_max": 0,
+                "foreign_atm_fee_exempting_conditions": "",
+                "features": [
+                    [
+                        1,
+                        "P\u0142atno\u015bci internetowe"
+                    ],
+                    [
+                        3,
+                        "P\u0142atno\u015bci zbli\u017ceniowe"
+                    ],
+                    [
+                        4,
+                        "Cash back"
+                    ]
+                ]
+            },
+            {
+                "name": "Visa \u015awiat Intensive",
+                "domestic_atm_fee": 0,
+                "domestic_atm_fee_min": 0,
+                "domestic_atm_fee_max": 0,
+                "domestic_atm_fee_exempting_conditions": "",
+                "free_withdrawal_domestic_atm": true,
+                "atm_free_network": [],
+                "debit_card_fixed_fee_min": 10,
+                "debit_card_fixed_fee_max": 10,
+                "debit_card_fixed_fee_exempting_conditions": "",
+                "free_withdrawal_foreign_atm": true,
+                "foreign_atm_fee": 0,
+                "foreign_atm_fee_min": 0,
+                "foreign_atm_fee_max": 0,
+                "foreign_atm_fee_exempting_conditions": "",
+                "features": [
+                    [
+                        1,
+                        "P\u0142atno\u015bci internetowe"
+                    ],
+                    [
+                        3,
+                        "P\u0142atno\u015bci zbli\u017ceniowe"
+                    ],
+                    [
+                        4,
+                        "Cash back"
+                    ]
+                ]
+            }
+        ],
+        "features": [
+            [
+                8,
+                "Google Pay"
+            ],
+            [
+                1,
+                "Aplikacja mobilna"
+            ],
+            [
+                6,
+                "Blik"
+            ],
+            [
+                9,
+                "Apple Pay"
+            ]
+        ],
+        "lead_url": "\/e\/lead\/1993?source=api-konta-osobiste",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=140",
+        "product_type": "konto_osobiste"
+    },
+    {
+        "product_name": "Millennium 360\u00b0",
+        "bank_name": "Bank Millennium",
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/f\/6\/c1964aee52bbcc.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/millennium.gif",
+        "ecommerce": 2588,
+        "product_id": 156,
+        "management_fee_min": 0,
+        "management_fee_max": 0,
+        "management_fee_exempting_conditions": "",
+        "external_outgoing_transfer_fee_min": 0,
+        "external_outgoing_transfer_fee_max": 0,
+        "bonus": "800 z\u0142",
+        "bonus_opis": "- 100 z\u0142 za otwarcie konta, logowanie do aplikacji mobilnej, wyra\u017cenie zg\u00f3d marketingowych, rejestracj\u0119 nr tel do przelew\u00f3w BLIK i dodanie karty do portfela cyfrowego<br\/>\r\n- 200 z\u0142 za zapewnienie wp\u0142yw\u00f3w na konto w kwocie min. 1000 z\u0142 oraz wykonanie min 5 transakcji u\u017cywaj\u0105c wirtualnego portfela<br\/>\r\n- 300 z\u0142 za jednorazowy wp\u0142yw w kwocie min 3000 z\u0142 oraz transakcje kart\u0105 debetow\u0105 w kwocie min 500 zl miesi\u0119cznie przez 3 kolejne miesi\u0105ce <br>\r\n- do 200 z\u0142 w kodach do Energylandii za za\u0142o\u017cenie konta 360\u00b0 Junior i spe\u0142nienie warunk\u00f3w aktywno\u015bci",
+        "debit_cards": [
+            {
+                "name": "Visa Millennium 360\u00b0 \/ Mastercard Millennium 360\u00b0",
+                "domestic_atm_fee": 5,
+                "domestic_atm_fee_min": 0,
+                "domestic_atm_fee_max": 5,
+                "domestic_atm_fee_exempting_conditions": "* 0 z\u0142 przez pierwsze dwa miesi\u0105ce \r\n* 0 z\u0142, je\u015bli w poprzednim miesi\u0105cu dokonano p\u0142atno\u015bci kart\u0105 lub Blikiem min. 5 razy\r\n* 0 z\u0142, je\u015bli wyp\u0142ata z bankomat\u00f3w w\u0142asnych\r\n* 1 z\u0142, je\u015bli wyp\u0142ata z bankomat\u00f3w sieci Santander Bank Polska i PlanetCash (przy braku uzyskania zwolnienia)\r\n* 5 z\u0142, je\u015bli wyp\u0142ata z pozosta\u0142ych bankomat\u00f3w w kraju (przy braku uzyskania zwolnienia)",
+                "free_withdrawal_domestic_atm": false,
+                "atm_free_network": [
+                    {
+                        "id": 3,
+                        "name": "Bank Millennium"
+                    }
+                ],
+                "debit_card_fixed_fee_min": 0,
+                "debit_card_fixed_fee_max": 11,
+                "debit_card_fixed_fee_exempting_conditions": "* 0 z\u0142 przez pierwsze dwa miesi\u0105ce, \r\n* 0 z\u0142, je\u015bli w poprzednim miesi\u0105cu dokonano p\u0142atno\u015bci kart\u0105 lub Blikiem min. 5 razy",
+                "free_withdrawal_foreign_atm": false,
+                "foreign_atm_fee": 5,
+                "foreign_atm_fee_min": 0,
+                "foreign_atm_fee_max": 5,
+                "foreign_atm_fee_exempting_conditions": "* 0 z\u0142 przez pierwsze dwa miesi\u0105ce \r\n* 0 z\u0142, je\u015bli w poprzednim miesi\u0105cu dokonano p\u0142atno\u015bci kart\u0105 lub Blikiem min. 5 razy\r\n* 5 z\u0142, je\u015bli nie uzyskano zwolnienia",
+                "features": [
+                    [
+                        1,
+                        "P\u0142atno\u015bci internetowe"
+                    ],
+                    [
+                        3,
+                        "P\u0142atno\u015bci zbli\u017ceniowe"
+                    ],
+                    [
+                        4,
+                        "Cash back"
+                    ],
+                    [
+                        5,
+                        "P\u0142atno\u015bci internetowe"
+                    ]
+                ]
+            }
+        ],
+        "features": [
+            [
+                8,
+                "Google Pay"
+            ],
+            [
+                1,
+                "Aplikacja mobilna"
+            ],
+            [
+                7,
+                "NFC"
+            ],
+            [
+                6,
+                "Blik"
+            ],
+            [
+                9,
+                "Apple Pay"
+            ]
+        ],
+        "lead_url": "\/e\/lead\/403?source=api-konta-osobiste",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=156",
+        "product_type": "konto_osobiste"
+    },
+    {
+        "product_name": "VeloKonto",
+        "bank_name": "VeloBank",
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/b\/4\/5069de044aa202.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/velobank.gif",
+        "ecommerce": 1347,
+        "product_id": 159,
+        "management_fee_min": 0,
+        "management_fee_max": 0,
+        "management_fee_exempting_conditions": "",
+        "external_outgoing_transfer_fee_min": 0,
+        "external_outgoing_transfer_fee_max": 0,
+        "bonus": "600 z\u0142",
+        "bonus_opis": "- Do 600 z\u0142 za aktywno\u015b\u0107, przez 12 miesi\u0119cy (maksymalnie 50 z\u0142 w ka\u017cdym miesi\u0105cu).<br>\r\n- Cashback naliczany jest od drugiego poziomu programu za aktywne korzystanie z Moich rachunk\u00f3w oraz za zakup bilet\u00f3w, parking\u00f3w, E-Winiet i autostrad. Mo\u017cesz go wymieni\u0107 na vouchery do wykorzystania na platformie zakupowej VeloMarket.pl lub wyp\u0142aci\u0107 na swoje konto osobiste lub oszcz\u0119dno\u015bciowe w VeloBanku",
+        "debit_cards": [
+            {
+                "name": "Karta Mastercard",
+                "domestic_atm_fee": 5,
+                "domestic_atm_fee_min": 0,
+                "domestic_atm_fee_max": 5,
+                "domestic_atm_fee_exempting_conditions": "0 z\u0142, je\u015bli klient wykona\u0142 kart\u0105 min. 5 transakcji bezgot\u00f3wkowych",
+                "free_withdrawal_domestic_atm": false,
+                "atm_free_network": [
+                    {
+                        "id": 6,
+                        "name": "PlanetCash"
+                    }
+                ],
+                "debit_card_fixed_fee_min": 0,
+                "debit_card_fixed_fee_max": 7,
+                "debit_card_fixed_fee_exempting_conditions": "0 z\u0142, je\u015bli klient wykona\u0142 kart\u0105 min. 5 transakcji bezgot\u00f3wkowych",
+                "free_withdrawal_foreign_atm": false,
+                "foreign_atm_fee": 10,
+                "foreign_atm_fee_min": 0,
+                "foreign_atm_fee_max": 10,
+                "foreign_atm_fee_exempting_conditions": "*darmowe na terenie Pa\u0144stw Cz\u0142onkowskich,\r\n* 4,50% min. 10 z\u0142 na terenie pozosta\u0142ych pa\u0144stw",
+                "features": [
+                    [
+                        1,
+                        "P\u0142atno\u015bci internetowe"
+                    ],
+                    [
+                        3,
+                        "P\u0142atno\u015bci zbli\u017ceniowe"
+                    ],
+                    [
+                        4,
+                        "Cash back"
+                    ],
+                    [
+                        5,
+                        "P\u0142atno\u015bci internetowe"
+                    ]
+                ]
+            }
+        ],
+        "features": [
+            [
+                8,
+                "Google Pay"
+            ],
+            [
+                1,
+                "Aplikacja mobilna"
+            ],
+            [
+                6,
+                "Blik"
+            ],
+            [
+                9,
+                "Apple Pay"
+            ]
+        ],
+        "lead_url": "\/e\/lead\/830?source=api-konta-osobiste",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=159",
+        "product_type": "konto_osobiste"
+    },
+    {
+        "product_name": "VeloKonto od 18 do 26 lat",
+        "bank_name": "VeloBank",
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/b\/4\/5069de044aa202.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/velobank.gif",
+        "ecommerce": null,
+        "product_id": 160,
+        "management_fee_min": 0,
+        "management_fee_max": 0,
+        "management_fee_exempting_conditions": "",
+        "external_outgoing_transfer_fee_min": 0,
+        "external_outgoing_transfer_fee_max": 0,
+        "bonus": "600 z\u0142",
+        "bonus_opis": "60z\u0142 za otwarcie konta i zalogowanie do aplikacji <br\/>\r\n5% zwrotu za zakupy kart\u0105, telefonem lub BLIKIEM. W sumie do zgarni\u0119cia a\u017c do 540z\u0142 (maksymalnie 60z\u0142 przez 9 kolejnych miesi\u0119cy).",
+        "debit_cards": [
+            {
+                "name": "Karta Mastercard",
+                "domestic_atm_fee": 5,
+                "domestic_atm_fee_min": 0,
+                "domestic_atm_fee_max": 5,
+                "domestic_atm_fee_exempting_conditions": "0 z\u0142, je\u015bli klient wykona\u0142 kart\u0105 min. 5 transakcji bezgot\u00f3wkowych",
+                "free_withdrawal_domestic_atm": false,
+                "atm_free_network": [
+                    {
+                        "id": 6,
+                        "name": "PlanetCash"
+                    }
+                ],
+                "debit_card_fixed_fee_min": 0,
+                "debit_card_fixed_fee_max": 0,
+                "debit_card_fixed_fee_exempting_conditions": "",
+                "free_withdrawal_foreign_atm": false,
+                "foreign_atm_fee": 10,
+                "foreign_atm_fee_min": 0,
+                "foreign_atm_fee_max": 10,
+                "foreign_atm_fee_exempting_conditions": "*darmowe na terenie Pa\u0144stw Cz\u0142onkowskich,\r\n* 4,50% min. 10 z\u0142 na terenie pozosta\u0142ych pa\u0144stw",
+                "features": [
+                    [
+                        1,
+                        "P\u0142atno\u015bci internetowe"
+                    ],
+                    [
+                        3,
+                        "P\u0142atno\u015bci zbli\u017ceniowe"
+                    ],
+                    [
+                        4,
+                        "Cash back"
+                    ],
+                    [
+                        5,
+                        "P\u0142atno\u015bci internetowe"
+                    ]
+                ]
+            }
+        ],
+        "features": [
+            [
+                8,
+                "Google Pay"
+            ],
+            [
+                1,
+                "Aplikacja mobilna"
+            ],
+            [
+                6,
+                "Blik"
+            ],
+            [
+                9,
+                "Apple Pay"
+            ]
+        ],
+        "lead_url": "\/e\/lead\/1363?source=api-konta-osobiste",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=160",
+        "product_type": "konto_osobiste"
+    },
+    {
+        "product_name": "eKonto mo\u017cliwo\u015bci od 13 do 17 lat",
+        "bank_name": "mBank",
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/c\/a\/3cdcb999fcce74.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/mbank.gif",
+        "ecommerce": 2254,
+        "product_id": 164,
+        "management_fee_min": 0,
+        "management_fee_max": 0,
+        "management_fee_exempting_conditions": "",
+        "external_outgoing_transfer_fee_min": 0,
+        "external_outgoing_transfer_fee_max": 0,
+        "bonus": "220 z\u0142",
+        "bonus_opis": "Za\u0142\u00f3\u017c konto i zyskaj 220 z\u0142 za spe\u0142nienie warunk\u00f3w aktywno\u015bci.",
+        "debit_cards": [
+            {
+                "name": "Visa payWave",
+                "domestic_atm_fee": 0,
+                "domestic_atm_fee_min": 0,
+                "domestic_atm_fee_max": 0,
+                "domestic_atm_fee_exempting_conditions": "",
+                "free_withdrawal_domestic_atm": true,
+                "atm_free_network": [],
+                "debit_card_fixed_fee_min": 0,
+                "debit_card_fixed_fee_max": 0,
+                "debit_card_fixed_fee_exempting_conditions": "",
+                "free_withdrawal_foreign_atm": true,
+                "foreign_atm_fee": 0,
+                "foreign_atm_fee_min": 0,
+                "foreign_atm_fee_max": 0,
+                "foreign_atm_fee_exempting_conditions": "",
+                "features": [
+                    [
+                        1,
+                        "P\u0142atno\u015bci internetowe"
+                    ],
+                    [
+                        3,
+                        "P\u0142atno\u015bci zbli\u017ceniowe"
+                    ],
+                    [
+                        4,
+                        "Cash back"
+                    ]
+                ]
+            }
+        ],
+        "features": [
+            [
+                8,
+                "Google Pay"
+            ],
+            [
+                1,
+                "Aplikacja mobilna"
+            ],
+            [
+                6,
+                "Blik"
+            ],
+            [
+                9,
+                "Apple Pay"
+            ]
+        ],
+        "lead_url": "\/e\/lead\/2437?source=api-konta-osobiste",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=164",
+        "product_type": "konto_osobiste"
+    },
+    {
+        "product_name": "CitiKonto w promocji \u201eZyskaj wi\u0119cej z CitiKontem - 6,6% oraz do 320 PLN",
+        "bank_name": "Citi Handlowy",
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/2\/c\/0001593a5a141c.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/citibank.gif",
+        "ecommerce": 2466,
+        "product_id": 165,
+        "management_fee_min": 0,
+        "management_fee_max": 0,
+        "management_fee_exempting_conditions": "",
+        "external_outgoing_transfer_fee_min": 0,
+        "external_outgoing_transfer_fee_max": 0,
+        "bonus": "320 z\u0142",
+        "bonus_opis": "Oferta \u201eZyskaj wi\u0119cej z CitiKontem-6,6% oraz do 320 PLN\u201d wa\u017cna do 12.08.2025 r. dla Uczestnik\u00f3w, kt\u00f3rzy zawr\u0105 z Bankiem Umow\u0119 Produkt\u00f3w Depozytowych, otworz\u0105 na jej podstawie Konto Osobiste CitiKonto i spe\u0142ni\u0105 warunki opisane w Regulaminie Oferty ",
+        "debit_cards": [
+            {
+                "name": "Karta debetowa",
+                "domestic_atm_fee": 8,
+                "domestic_atm_fee_min": 0,
+                "domestic_atm_fee_max": 8,
+                "domestic_atm_fee_exempting_conditions": "*pierwsze cztery wyp\u0142aty got\u00f3wki z bankomat\u00f3w innych ni\u017c Citi Handlowego za 0 z\u0142, pi\u0105ta i ka\u017cda kolejna wyp\u0142ata tego typu 8 z\u0142 ",
+                "free_withdrawal_domestic_atm": false,
+                "atm_free_network": [
+                    {
+                        "id": 8,
+                        "name": "Citi Handlowy"
+                    }
+                ],
+                "debit_card_fixed_fee_min": 0,
+                "debit_card_fixed_fee_max": 0,
+                "debit_card_fixed_fee_exempting_conditions": "",
+                "free_withdrawal_foreign_atm": false,
+                "foreign_atm_fee": 8,
+                "foreign_atm_fee_min": 0,
+                "foreign_atm_fee_max": 8,
+                "foreign_atm_fee_exempting_conditions": "*pierwsze cztery wyp\u0142aty got\u00f3wki z bankomat\u00f3w innych ni\u017c Citi za 0 z\u0142, pi\u0105ta i ka\u017cda kolejna wyp\u0142ata tego typu 8 z\u0142 ",
+                "features": [
+                    [
+                        1,
+                        "P\u0142atno\u015bci internetowe"
+                    ],
+                    [
+                        3,
+                        "P\u0142atno\u015bci zbli\u017ceniowe"
+                    ],
+                    [
+                        4,
+                        "Cash back"
+                    ]
+                ]
+            }
+        ],
+        "features": [
+            [
+                8,
+                "Google Pay"
+            ],
+            [
+                1,
+                "Aplikacja mobilna"
+            ],
+            [
+                6,
+                "Blik"
+            ],
+            [
+                9,
+                "Apple Pay"
+            ]
+        ],
+        "lead_url": "\/e\/lead\/2174?source=api-konta-osobiste",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=165",
+        "product_type": "konto_osobiste"
+    },
+    {
+        "product_name": "eKonto do us\u0142ug",
+        "bank_name": "mBank",
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/c\/a\/3cdcb999fcce74.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/mbank.gif",
+        "ecommerce": 1856,
+        "product_id": 166,
+        "management_fee_min": 0,
+        "management_fee_max": 0,
+        "management_fee_exempting_conditions": "",
+        "external_outgoing_transfer_fee_min": 0,
+        "external_outgoing_transfer_fee_max": 0,
+        "bonus": "1060 z\u0142",
+        "bonus_opis": "Maksymalnie do 1060 z\u0142 premii:\r\n<ul>\r\n<li>200 z\u0142 do Biedronki lub Kauflandu za zapis do promocji i aktywno\u015b\u0107<li>\r\n<li>300 z\u0142 \u0142\u0105cznie premii za spe\u0142nienie warunk\u00f3w aktywno\u015bci<\/li>\r\n<li>200 z\u0142 dodatkowej nagrody za spe\u0142nienie wszystkich warunk\u00f3w<\/li>\r\n<li>100 z\u0142 za za\u0142o\u017cenie konta dla dziecka<\/li>\r\n<li>do 260 z\u0142 za skuteczne polecanie konta<\/li>\r\n<\/ul>\r\n",
+        "debit_cards": [
+            {
+                "name": "Visa payWave\/MasterCard PayPass",
+                "domestic_atm_fee": 2.5,
+                "domestic_atm_fee_min": 0,
+                "domestic_atm_fee_max": 2.5,
+                "domestic_atm_fee_exempting_conditions": "0 z\u0142, je\u015bli kwota wyp\u0142aty wynosi min. 300 z\u0142",
+                "free_withdrawal_domestic_atm": false,
+                "atm_free_network": [],
+                "debit_card_fixed_fee_min": 0,
+                "debit_card_fixed_fee_max": 9,
+                "debit_card_fixed_fee_exempting_conditions": "0 z\u0142, je\u015bli dokonano p\u0142atno\u015bci na kwot\u0119 min. 350 z\u0142",
+                "free_withdrawal_foreign_atm": false,
+                "foreign_atm_fee": null,
+                "foreign_atm_fee_min": 0,
+                "foreign_atm_fee_max": null,
+                "foreign_atm_fee_exempting_conditions": "",
+                "features": [
+                    [
+                        1,
+                        "P\u0142atno\u015bci internetowe"
+                    ],
+                    [
+                        3,
+                        "P\u0142atno\u015bci zbli\u017ceniowe"
+                    ],
+                    [
+                        4,
+                        "Cash back"
+                    ]
+                ]
+            }
+        ],
+        "features": [
+            [
+                8,
+                "Google Pay"
+            ],
+            [
+                1,
+                "Aplikacja mobilna"
+            ],
+            [
+                6,
+                "Blik"
+            ],
+            [
+                9,
+                "Apple Pay"
+            ]
+        ],
+        "lead_url": "\/e\/lead\/2104?source=api-konta-osobiste",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=166",
+        "product_type": "konto_osobiste"
+    },
+    {
+        "product_name": "Alior Konto",
+        "bank_name": "Alior Bank",
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/9\/1\/e9ea4c8e63eb84-thumb-200.jpg?79",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/aliorbank.gif",
+        "ecommerce": 1152,
+        "product_id": 30,
+        "management_fee_min": 0,
+        "management_fee_max": 0,
+        "management_fee_exempting_conditions": "",
+        "external_outgoing_transfer_fee_min": 0,
+        "external_outgoing_transfer_fee_max": 0,
+        "bonus": "1249 z\u0142",
+        "bonus_opis": "- 100 z\u0142 za otwarcie konta z kart\u0105<\/br>\r\n- 500 z\u0142 za spe\u0142nianie warunk\u00f3w aktywno\u015bci (po 100 z\u0142 przez 5 m-cy)<\/br>\r\n- 100 z\u0142 za dodanie karty do portfela cyfrowego i wykonanie min jednej transakcji<\/br>\r\n- 100 z\u0142 za rocznic\u0119 bankowanie (o ile spe\u0142nione zostan\u0105 pozosta\u0142e warunki aktywno\u015bci)<\/br>\r\n- obr\u0105czka p\u0142atnicza TAPSTER o warto\u015bci 449z\u0142 w promocji \"Otw\u00f3rz konto i odbierz obr\u0105czk\u0119 p\u0142atnicz\u0105\"",
+        "debit_cards": [
+            {
+                "name": "MasterCard Debit\/MasterCard Debit PayPass",
+                "domestic_atm_fee": 5,
+                "domestic_atm_fee_min": 0,
+                "domestic_atm_fee_max": 5,
+                "domestic_atm_fee_exempting_conditions": "*5 z\u0142, je\u015bli wyp\u0142ata dokonana w bankomatach innych ni\u017c partnerskie lub w sieci Euronet, je\u015bli kwota wyp\u0142aty by\u0142a ni\u017csza ni\u017c 100 z\u0142",
+                "free_withdrawal_domestic_atm": false,
+                "atm_free_network": [
+                    {
+                        "id": 1,
+                        "name": "Euronet"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Alior Bank"
+                    }
+                ],
+                "debit_card_fixed_fee_min": 0,
+                "debit_card_fixed_fee_max": 6,
+                "debit_card_fixed_fee_exempting_conditions": "0 z\u0142, je\u015bli dokonano p\u0142atno\u015bci bezgot\u00f3wkowych na kwot\u0119 min. 300 z\u0142\/m-c i dla os\u00f3b poni\u017cej 18 r.\u017c. ",
+                "free_withdrawal_foreign_atm": true,
+                "foreign_atm_fee": null,
+                "foreign_atm_fee_min": 0,
+                "foreign_atm_fee_max": null,
+                "foreign_atm_fee_exempting_conditions": "",
+                "features": [
+                    [
+                        1,
+                        "P\u0142atno\u015bci internetowe"
+                    ],
+                    [
+                        3,
+                        "P\u0142atno\u015bci zbli\u017ceniowe"
+                    ],
+                    [
+                        4,
+                        "Cash back"
+                    ]
+                ]
+            }
+        ],
+        "features": [
+            [
+                8,
+                "Google Pay"
+            ],
+            [
+                1,
+                "Aplikacja mobilna"
+            ],
+            [
+                7,
+                "NFC"
+            ],
+            [
+                6,
+                "Blik"
+            ],
+            [
+                9,
+                "Apple Pay"
+            ]
+        ],
+        "lead_url": "\/e\/lead\/1337?source=api-konta-osobiste",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=30",
+        "product_type": "konto_osobiste"
+    },
+    {
+        "product_name": "PKO Konto Bez Granic",
+        "bank_name": "PKO Bank Polski",
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/5\/d\/d4a120b1de2ba3-540-210-297-210-810-315.jpg",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/pko.gif",
+        "ecommerce": null,
+        "product_id": 33,
+        "management_fee_min": 17,
+        "management_fee_max": 17,
+        "management_fee_exempting_conditions": "",
+        "external_outgoing_transfer_fee_min": 0,
+        "external_outgoing_transfer_fee_max": 0,
+        "bonus": "500 z\u0142",
+        "bonus_opis": "do 500 z\u0142 za p\u0142atno\u015bci kart\u0105 Visa w promocji",
+        "debit_cards": [
+            {
+                "name": "PKO Ekspres",
+                "domestic_atm_fee": null,
+                "domestic_atm_fee_min": 0,
+                "domestic_atm_fee_max": null,
+                "domestic_atm_fee_exempting_conditions": "",
+                "free_withdrawal_domestic_atm": true,
+                "atm_free_network": [],
+                "debit_card_fixed_fee_min": 0,
+                "debit_card_fixed_fee_max": 0,
+                "debit_card_fixed_fee_exempting_conditions": "",
+                "free_withdrawal_foreign_atm": true,
+                "foreign_atm_fee": null,
+                "foreign_atm_fee_min": 0,
+                "foreign_atm_fee_max": null,
+                "foreign_atm_fee_exempting_conditions": "",
+                "features": [
+                    [
+                        1,
+                        "P\u0142atno\u015bci internetowe"
+                    ],
+                    [
+                        3,
+                        "P\u0142atno\u015bci zbli\u017ceniowe"
+                    ],
+                    [
+                        4,
+                        "Cash back"
+                    ]
+                ]
+            }
+        ],
+        "features": [
+            [
+                1,
+                "Aplikacja mobilna"
+            ],
+            [
+                7,
+                "NFC"
+            ],
+            [
+                6,
+                "Blik"
+            ],
+            [
+                9,
+                "Apple Pay"
+            ]
+        ],
+        "lead_url": "\/e\/lead\/1473?source=api-konta-osobiste",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=33",
+        "product_type": "konto_osobiste"
+    },
+    {
+        "product_name": "Citigold",
+        "bank_name": "Citi Handlowy",
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/2\/c\/0001593a5a141c.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/citibank.gif",
+        "ecommerce": 1940,
+        "product_id": 63,
+        "management_fee_min": 0,
+        "management_fee_max": 220,
+        "management_fee_exempting_conditions": "* 0 z\u0142, je\u015bli \u015brednie miesi\u0119czne saldo na wszystkich rachunkach w banku wynosi min. 400 000 z\u0142",
+        "external_outgoing_transfer_fee_min": 0,
+        "external_outgoing_transfer_fee_max": 0,
+        "bonus": "",
+        "bonus_opis": "",
+        "debit_cards": [
+            {
+                "name": "Citicard",
+                "domestic_atm_fee": null,
+                "domestic_atm_fee_min": 0,
+                "domestic_atm_fee_max": null,
+                "domestic_atm_fee_exempting_conditions": "",
+                "free_withdrawal_domestic_atm": true,
+                "atm_free_network": [],
+                "debit_card_fixed_fee_min": 0,
+                "debit_card_fixed_fee_max": 0,
+                "debit_card_fixed_fee_exempting_conditions": "",
+                "free_withdrawal_foreign_atm": true,
+                "foreign_atm_fee": null,
+                "foreign_atm_fee_min": 0,
+                "foreign_atm_fee_max": null,
+                "foreign_atm_fee_exempting_conditions": "",
+                "features": [
+                    [
+                        1,
+                        "P\u0142atno\u015bci internetowe"
+                    ],
+                    [
+                        3,
+                        "P\u0142atno\u015bci zbli\u017ceniowe"
+                    ],
+                    [
+                        4,
+                        "Cash back"
+                    ]
+                ]
+            }
+        ],
+        "features": [
+            [
+                8,
+                "Google Pay"
+            ],
+            [
+                1,
+                "Aplikacja mobilna"
+            ],
+            [
+                6,
+                "Blik"
+            ],
+            [
+                9,
+                "Apple Pay"
+            ]
+        ],
+        "lead_url": "\/e\/lead\/2192?source=api-konta-osobiste",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=63",
+        "product_type": "konto_osobiste"
+    },
+    {
+        "product_name": "Konto za Zero",
+        "bank_name": "PKO Bank Polski",
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/5\/d\/d4a120b1de2ba3-540-210-297-210-810-315.jpg",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/pko.gif",
+        "ecommerce": 2380,
+        "product_id": 7,
+        "management_fee_min": 0,
+        "management_fee_max": 0,
+        "management_fee_exempting_conditions": "",
+        "external_outgoing_transfer_fee_min": 0,
+        "external_outgoing_transfer_fee_max": 0,
+        "bonus": "500 z\u0142",
+        "bonus_opis": "Otw\u00f3rz konto z kodem BONUS3.<br>\r\nZyskaj do 500 z\u0142 premii w formie miesi\u0119cznego zwrotu 5% warto\u015bci transakcji kart\u0105 (maks. 50 z\u0142\/miesi\u0105c) przez 10 miesi\u0119cy od otwarcia konta.",
+        "debit_cards": [
+            {
+                "name": "PKO Ekspres",
+                "domestic_atm_fee": 10,
+                "domestic_atm_fee_min": 0,
+                "domestic_atm_fee_max": 10,
+                "domestic_atm_fee_exempting_conditions": "* 0 z\u0142, je\u015bli bankomaty w\u0142asne lub wyp\u0142aty Blik ",
+                "free_withdrawal_domestic_atm": false,
+                "atm_free_network": [
+                    {
+                        "id": 4,
+                        "name": "PKO BP"
+                    }
+                ],
+                "debit_card_fixed_fee_min": 0,
+                "debit_card_fixed_fee_max": 10,
+                "debit_card_fixed_fee_exempting_conditions": "0 z\u0142, je\u015bli dokonano 5 transakcji bezgot\u00f3wkowych kart\u0105 lub Blikiem ",
+                "free_withdrawal_foreign_atm": false,
+                "foreign_atm_fee": 0,
+                "foreign_atm_fee_min": 0,
+                "foreign_atm_fee_max": 0,
+                "foreign_atm_fee_exempting_conditions": "",
+                "features": [
+                    [
+                        1,
+                        "P\u0142atno\u015bci internetowe"
+                    ],
+                    [
+                        3,
+                        "P\u0142atno\u015bci zbli\u017ceniowe"
+                    ],
+                    [
+                        4,
+                        "Cash back"
+                    ]
+                ]
+            }
+        ],
+        "features": [
+            [
+                1,
+                "Aplikacja mobilna"
+            ],
+            [
+                7,
+                "NFC"
+            ],
+            [
+                6,
+                "Blik"
+            ],
+            [
+                9,
+                "Apple Pay"
+            ]
+        ],
+        "lead_url": "\/e\/lead\/538?source=api-konta-osobiste",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=7",
+        "product_type": "konto_osobiste"
+    },
+    {
+        "product_name": "Nest Konto",
+        "bank_name": "Nest Bank",
+        "logo_url": "https:\/\/galeria.bankier.pl\/p\/0\/9\/4d975395597cc4.png",
+        "logo_url_format": "https:\/\/www.bankier.pl\/static_sp\/images\/l\/nestbank.gif",
+        "ecommerce": 2552,
+        "product_id": 8,
+        "management_fee_min": 0,
+        "management_fee_max": 0,
+        "management_fee_exempting_conditions": "",
+        "external_outgoing_transfer_fee_min": 0,
+        "external_outgoing_transfer_fee_max": 0,
+        "bonus": "",
+        "bonus_opis": "",
+        "debit_cards": [
+            {
+                "name": "Visa Business",
+                "domestic_atm_fee": 6,
+                "domestic_atm_fee_min": 0,
+                "domestic_atm_fee_max": 6,
+                "domestic_atm_fee_exempting_conditions": "",
+                "free_withdrawal_domestic_atm": false,
+                "atm_free_network": [
+                    {
+                        "id": 1,
+                        "name": "Euronet"
+                    }
+                ],
+                "debit_card_fixed_fee_min": 0,
+                "debit_card_fixed_fee_max": 0,
+                "debit_card_fixed_fee_exempting_conditions": "",
+                "free_withdrawal_foreign_atm": false,
+                "foreign_atm_fee": 6,
+                "foreign_atm_fee_min": 6,
+                "foreign_atm_fee_max": 6,
+                "foreign_atm_fee_exempting_conditions": "",
+                "features": [
+                    [
+                        1,
+                        "P\u0142atno\u015bci internetowe"
+                    ],
+                    [
+                        3,
+                        "P\u0142atno\u015bci zbli\u017ceniowe"
+                    ],
+                    [
+                        4,
+                        "Cash back"
+                    ]
+                ]
+            },
+            {
+                "name": "Visa do Nest Konta",
+                "domestic_atm_fee": 6,
+                "domestic_atm_fee_min": 0,
+                "domestic_atm_fee_max": 6,
+                "domestic_atm_fee_exempting_conditions": "",
+                "free_withdrawal_domestic_atm": false,
+                "atm_free_network": [
+                    {
+                        "id": 1,
+                        "name": "Euronet"
+                    }
+                ],
+                "debit_card_fixed_fee_min": 0,
+                "debit_card_fixed_fee_max": 0,
+                "debit_card_fixed_fee_exempting_conditions": "",
+                "free_withdrawal_foreign_atm": false,
+                "foreign_atm_fee": 6,
+                "foreign_atm_fee_min": 6,
+                "foreign_atm_fee_max": 6,
+                "foreign_atm_fee_exempting_conditions": "",
+                "features": [
+                    [
+                        1,
+                        "P\u0142atno\u015bci internetowe"
+                    ],
+                    [
+                        3,
+                        "P\u0142atno\u015bci zbli\u017ceniowe"
+                    ],
+                    [
+                        4,
+                        "Cash back"
+                    ]
+                ]
+            }
+        ],
+        "features": [
+            [
+                8,
+                "Google Pay"
+            ],
+            [
+                1,
+                "Aplikacja mobilna"
+            ],
+            [
+                6,
+                "Blik"
+            ],
+            [
+                9,
+                "Apple Pay"
+            ]
+        ],
+        "lead_url": "\/e\/lead\/1562?source=api-konta-osobiste",
+        "product_details": "https:\/\/api.systempartnerski.pl\/publishers\/financial-products-api\/product_details?&product_id=8",
+        "product_type": "konto_osobiste"
+    }
+]
